@@ -2,7 +2,7 @@
 
 <h2>1001件のH&M商品サンプルデータセット</h2>
 
-![H&M products dataset header](https://github.com/luminati-io/HM-dataset-sample/blob/main/HM-dataset.png)
+![H&M products dataset header](https://github.com/bright-jp/HM-dataset-sample/blob/main/HM-dataset.png)
 
 1000件以上のレコードを含むH&M商品データセットのサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
